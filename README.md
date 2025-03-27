@@ -1,19 +1,10 @@
-# My-Portfolio
-Hi, my name is Thiago, I'm still in the first semester of software engineering at IESB, so I'm still a beginner in this world of programming, but I'm always doing my best to learn and experience new things. This is for all my codes since the beginning of my learning.
-🦄 Languages: I'm currently learning basic python
-💼 Tools: Pycharm
-💌 If you want to get in touch, these are my networks ⤵️
-E-mail: tlv301230@gmail.com
-LinkedIn: https://www.linkedin.com/in/thiago-domingos-441231348/
+This is where I will place all my projects following a timeline of learning in order to maintain the organization of dates, evolution and the profile itself.☺️
 
 
-Oi, eu me chamo Thiago, ainda estou no 1° semestre de engenharia de software pelo IESB, então ainda sou iniciante nesse mundo da programação, mas sempre dando o meu melhor para aprender e viver coisas novas.
-🦄 Linguagens: Atualmente estou no básico de pythom
-💼 Ferramentas: Pycharm
-💌 Caso queram entrar em contato, estas são as minhas redes ⤵️
+Aqui vai ser onde eu vou colocar todos os meus projetos seguindo uma linha temporal de aprendisagem a fim de manter a organização de datas, evolução e do proprio perfil.☺️
 
-E-mail: tlv301230@gmail.com 
-LinkedIn: https://www.linkedin.com/in/thiago-domingos-441231348/
+
+
 
 
 
